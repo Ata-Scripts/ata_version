@@ -3,5 +3,6 @@
   "store_name": "Ata Scripts",
   "store_link": "https://ata.tebex.io/"
   "ata_einreise": "1.1.1",
+  "ata_core":"1.0.5",
   "ata_charcreator": "1.0.0"
 }
