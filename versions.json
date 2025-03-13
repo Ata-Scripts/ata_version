@@ -1,8 +1,6 @@
 {
-  "discord":"https://discord.gg/5tVUgq8",
-  "store_name": "Ata Scripts",
-  "store_link": "https://ata.tebex.io/"
-  "ata_einreise": "1.1.1",
-  "ata_core":"1.0.5",
-  "ata_charcreator": "1.0.0"
+  "ata_core": "1.0.0",
+  "ata_einreise": "2.0.0",
+  "ata_garage": "1.5.0",
+  "discord": "Join our Discord: https://discord.gg/atascripts"
 }
